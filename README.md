@@ -1,7 +1,8 @@
 # Proyecto API-Usuarios
 ***
-El proyecto es una Api con un Crud de usuarios que cuenta login y logout con autenticacion, y es totalmente funcional.
-Esta hecha en Laravel 9
+Una API hecha en Laravel 9, es un Crud de Usuarios totalmente funcional y con algunos añadidos dinámicos por si se trabaja
+con un front-end, utilice sanctum para la autenticacion en el login mediante la creación de un token.
+Todas las pruebas para verificar el funcionamiento de la API fueron realizadas en Postman 
 
 ## Instalacion
 ***
