@@ -2,7 +2,8 @@
 ***
 Una API hecha en Laravel 9, es un Crud de Usuarios totalmente funcional y con algunos añadidos dinámicos por si se trabaja
 con un front-end, utilice sanctum para la autenticacion en el login mediante la creación de un token.
-Todas las pruebas para verificar el funcionamiento de la API fueron realizadas en Postman 
+Todas las pruebas para verificar el funcionamiento de la API fueron realizadas en Postman, y para documentar se utilizo request docs
+que tra una vista para que el front la documentación de la API.
 
 ## Instalacion
 ***
@@ -15,3 +16,4 @@ para no tener errores
 ***
 2- Sanctum
 ***
+3- Request docs: 
