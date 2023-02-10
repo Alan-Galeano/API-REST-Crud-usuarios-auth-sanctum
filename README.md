@@ -1,6 +1,6 @@
 # Proyecto API-Usuarios
 ***
-Un Crud de Usuarios para una una API, totalmente funcional y con algunos añadidos dinámicos por si se trabaja
+Una API que se encarga del manejo de usuarios, cuenta con login y logout totalmente funcional y con algunos añadidos dinámicos por si se trabaja
 con un front-end, utilice sanctum para la autenticacion en el login mediante la creación de un token.
 Todas las pruebas para verificar el funcionamiento de la API fueron realizadas en Postman, y para documentar se utilizo request docs
 que genera una vista para que el front pueda ver la documentación de la API.
