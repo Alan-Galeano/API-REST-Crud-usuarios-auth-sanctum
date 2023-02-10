@@ -4,7 +4,8 @@ Una API que se encarga del manejo de usuarios, cuenta con login y logout totalme
 con un front-end, utilice sanctum para la autenticacion en el login mediante la creación de un token.
 Todas las pruebas para verificar el funcionamiento de la API fueron realizadas en Postman, y para documentar se utilizo request docs
 que genera una vista para que el front pueda ver la documentación de la API.
-Para acceder a la vista de la documentacion ponga la url del proyecto seguido de request-docs. Ej: http://api-usuarios.test/request-docs
+Para acceder a la vista de la documentacion ponga la url del proyecto seguido de request-docs.
+Ej: http://api-usuarios.test/request-docs
 
 ## Instalacion
 ***
