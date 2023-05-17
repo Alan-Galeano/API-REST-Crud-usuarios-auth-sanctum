@@ -4,7 +4,7 @@ Una API para el manejo de usuarios, cuenta con un login y logout totalmente func
 
 ## Instalacion
 ***
-Para Instalar el proyecto debe clonar el repositorio y realizar/ejecutar los siguientes comandos y acciones:
+Para Instalar realizar/ejecutar los siguientes comandos y acciones:
 - Clonar el repositorio del proyecto.
 - Ejecutar el comando "composer install" para instalar las dependencias del proyecto.
 - Ejecutar el comando "composer dump-autoload" para generar el archivo de autocarga de clases.
