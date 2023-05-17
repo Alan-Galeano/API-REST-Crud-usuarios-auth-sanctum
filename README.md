@@ -5,10 +5,12 @@ Una API para el manejo de usuarios, cuenta con un login y logout totalmente func
 ## Instalacion
 ***
 Para Instalar el proyecto debe clonar el repositorio y realizar/ejecutar los siguientes comandos y acciones:
-- Composer install
-- Composer dump-autoload
-- Configurar el archivo .env
-- Realizar las migraciones con los seeders: php artisan migrate --seed
+- Clonar el repositorio del proyecto.
+- Ejecutar el comando "composer install" para instalar las dependencias del proyecto.
+- Ejecutar el comando "composer dump-autoload" para generar el archivo de autocarga de clases.
+- Configurar el archivo ".env" con la información de conexión a la base de datos y otras configuraciones específicas.
+- Ejecutar el comando "php artisan migrate --seed" para realizar las migraciones de la base de datos y ejecutar los seeders     (opcionalmente, para poblar la base de datos con datos de prueba).
+Recuerda que también es importante asegurarse de tener instalado PHP, Composer y Laravel correctamente en tu entorno antes de ejecutar estos pasos.
 
 ## Tecnologias
 
